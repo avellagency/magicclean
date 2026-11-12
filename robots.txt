@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://VAS-SAJT.github.io/sitemap.xml
